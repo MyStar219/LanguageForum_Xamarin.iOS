@@ -1,0 +1,15 @@
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/bin/unified/iPhoneSimulator/Debug/ZxingSharpMonoTouchSample.exe
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/bin/unified/iPhoneSimulator/Debug/ZxingSharpMonoTouchSample.pdb
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/bin/unified/iPhoneSimulator/Debug/Calabash.dll
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/bin/unified/iPhoneSimulator/Debug/ZXing.Net.Mobile.Core.dll
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/bin/unified/iPhoneSimulator/Debug/zxing.portable.dll
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/bin/unified/iPhoneSimulator/Debug/ZXingNetMobile.dll
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/obj/unified/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/obj/unified/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/obj/unified/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/obj/unified/iPhoneSimulator/Debug/optimized/Icon.png
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/obj/unified/iPhoneSimulator/Debug/optimized/
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/obj/unified/iPhoneSimulator/Debug/Sample.iOS.csprojResolveAssemblyReference.cache
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/obj/unified/iPhoneSimulator/Debug/Sample.iOS.csproj.CoreCompileInputs.cache
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/obj/unified/iPhoneSimulator/Debug/ZxingSharpMonoTouchSample.exe
+/Users/mobiledeveloper/Documents/Work/Xamarin/iOS/LanguageForum/Components/zxing.net.mobile-2.1.12/samples/Sample.iOS/Sample.iOS/obj/unified/iPhoneSimulator/Debug/ZxingSharpMonoTouchSample.pdb

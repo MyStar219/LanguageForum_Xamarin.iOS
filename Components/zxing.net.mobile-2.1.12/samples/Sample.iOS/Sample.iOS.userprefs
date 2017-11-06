@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{D119965B-BA8F-40D7-86B4-E9654E1014E2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.a8a1585ea119f5c07ef297a870d15517eac7db22" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../LanguageForum/ViewControllers/Start60LessionViewController.cs">
+    <Files>
+      <File FileName="../../../../LanguageForum/WebService/BackgroundIntentService.cs" Line="101" Column="13" />
+      <File FileName="../../../../LanguageForum/Main.storyboard" />
+      <File FileName="../../../../LanguageForum/Classes/StudentsTableViewSource.cs" Line="31" Column="10" />
+      <File FileName="../../../../LanguageForum/Info.plist" />
+      <File FileName="../../../../LanguageForum/ViewControllers/Start60LessionViewController.cs" Line="324" Column="10" />
+      <File FileName="../../../../LanguageForum/ViewControllers/MainViewController.cs" Line="69" Column="21" />
+      <File FileName="../../../../LanguageForum/ViewControllers/RegistrationViewController.cs" Line="1" Column="1" />
+      <File FileName="../../../../LanguageForum/Classes/SQLDatabase.cs" Line="1" Column="1" />
+      <File FileName="../../../../LanguageForum/Classes/ManagementService.cs" Line="1" Column="1" />
+      <File FileName="../../../../LanguageForum/Model/QRCodeItem.cs" Line="19" Column="23" />
+      <File FileName="../../../../LanguageForum/Model/QRCodeUserType.cs" Line="13" Column="17" />
+      <File FileName="../../../../LanguageForum/Model/Student.cs" Line="1" Column="1" />
+      <File FileName="../../../../LanguageForum/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Sample.iOS/HomeViewController.cs" Line="37" Column="21" />
+      <File FileName="Sample.iOS/CustomOverlayView.cs" Line="1" Column="1" />
+      <File FileName="Sample.iOS/Main.cs" Line="22" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LanguageForum" expanded="True">
+            <Node name="LanguageForum" expanded="True" selected="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Classes" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="ViewControllers" expanded="True" />
+              <Node name="WebService" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="Sample.iOS" expanded="True">
+            <Node name="Sample.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BBE43862-A30F-48A3-9F3A-521F9D357A69}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="LanguageForum/ViewControllers/Start60LessionViewController.cs" Line="150" Column="13" />
+      <File FileName="LanguageForum/ViewControllers/RegistrationViewController.cs" Line="133" Column="32" />
+      <File FileName="LanguageForum/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LanguageForum PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.59AACA60-16C5-40FE-AD54-60941F4B8554" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
